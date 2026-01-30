@@ -18,6 +18,8 @@ The repository is organized into four main directories, each corresponding to a 
 ├── Timedomain & Matrix pencil/ # Julia scripts for time evolution and QNM extraction
 ├── WKB/                        # WKB approximation codes
 └── Direct integration/         # Shooting method implementation
+
+```
 Detailed Usage Guide 
 1. Pseudospectral Method
 Located in Pseudospectral/.
