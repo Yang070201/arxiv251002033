@@ -1,0 +1,353 @@
+{Subscript[\[CapitalBeta], 1][0] -> ((I/2)*\[Lambda])/\[Omega], 
+ Subscript[\[CapitalBeta], 2][0] -> 
+  ((I/4)*(\[Lambda] + (-1 + s + 2*s2)*Ainf[0])*Ainf[1])/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 2][1] -> 
+  ((I/4)*(\[Lambda] - 2*Ainf[0]))/\[Omega] - Ainf[1]/(2*Ainf[0]), 
+ Subscript[\[CapitalBeta], 3][0] -> 
+  ((I/6)*((-1 + s + 2*s2)*Ainf[1]^2 + (\[Lambda] + 2*(-1 + s + 3*s2)*Ainf[0])*
+      Ainf[2]))/(\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 3][1] -> 
+  (I*(\[Lambda] + (-6 + s + 2*s2)*Ainf[0])*Ainf[1] - 2*\[Omega]*Ainf[2])/
+   (6*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 3][2] -> 
+  ((I/6)*(\[Lambda] - 6*Ainf[0]))/\[Omega] - (2*Ainf[1])/(3*Ainf[0]), 
+ Subscript[\[CapitalBeta], 4][0] -> 
+  ((I/8)*((-3 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(-1 + s + 4*s2)*Ainf[0])*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 4][1] -> 
+  ((I/8)*((-4 + s + 2*s2)*Ainf[1]^2 + (\[Lambda] + 2*(-4 + s + 3*s2)*Ainf[0])*
+      Ainf[2] + (2*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 4][2] -> 
+  (I*(\[Lambda] + (-15 + s + 2*s2)*Ainf[0])*Ainf[1] - 4*\[Omega]*Ainf[2])/
+   (8*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 4][3] -> 
+  ((I/8)*(\[Lambda] - 12*Ainf[0]))/\[Omega] - (3*Ainf[1])/(4*Ainf[0]), 
+ Subscript[\[CapitalBeta], 5][0] -> 
+  ((I/10)*(2*(-1 + s + 3*s2)*Ainf[2]^2 + 2*(-2 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(-1 + s + 5*s2)*Ainf[0])*Ainf[4]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 5][1] -> 
+  ((I/10)*((-10 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + (-10 + 3*s + 12*s2)*Ainf[0])*Ainf[3] + 
+     (2*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 5][2] -> 
+  ((I/10)*((-9 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-9 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (4*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 5][3] -> 
+  (I*(\[Lambda] + (-28 + s + 2*s2)*Ainf[0])*Ainf[1] - 6*\[Omega]*Ainf[2])/
+   (10*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 5][4] -> 
+  ((I/10)*(\[Lambda] - 20*Ainf[0]))/\[Omega] - (4*Ainf[1])/(5*Ainf[0]), 
+ Subscript[\[CapitalBeta], 6][0] -> 
+  ((I/12)*((-5 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (-5 + 5*s + 22*s2)*Ainf[1]*
+      Ainf[4] + (\[Lambda] + 5*(-1 + s + 6*s2)*Ainf[0])*Ainf[5]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 6][1] -> 
+  ((I/12)*(2*(-3 + s + 3*s2)*Ainf[2]^2 + 2*(-6 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(-3 + s + 5*s2)*Ainf[0])*Ainf[4] + 
+     (2*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 6][2] -> 
+  ((I/12)*((-21 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(-7 + s + 4*s2)*Ainf[0])*Ainf[3] + 
+     (4*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 6][3] -> 
+  ((I/12)*((s + 2*(-8 + s2))*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-16 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (6*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 6][4] -> 
+  (I*(\[Lambda] + (-45 + s + 2*s2)*Ainf[0])*Ainf[1] - 8*\[Omega]*Ainf[2])/
+   (12*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 6][5] -> 
+  ((I/12)*(\[Lambda] - 30*Ainf[0]))/\[Omega] - (5*Ainf[1])/(6*Ainf[0]), 
+ Subscript[\[CapitalBeta], 7][0] -> 
+  ((I/14)*(3*(-1 + s + 4*s2)*Ainf[3]^2 + 2*(-3 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(-3 + 3*s + 16*s2)*Ainf[1]*Ainf[5] + 
+     (\[Lambda] + 6*(-1 + s + 7*s2)*Ainf[0])*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 7][1] -> 
+  ((I/14)*((-14 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (-14 + 5*s + 22*s2)*Ainf[1]*
+      Ainf[4] + (\[Lambda] + (-14 + 5*s + 30*s2)*Ainf[0])*Ainf[5] + 
+     (2*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 7][2] -> 
+  ((I/14)*(2*(-6 + s + 3*s2)*Ainf[2]^2 + 2*(-12 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(-6 + s + 5*s2)*Ainf[0])*Ainf[4] + 
+     (4*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 7][3] -> 
+  ((I/14)*((-36 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(s + 4*(-3 + s2))*Ainf[0])*Ainf[3] + 
+     (6*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 7][4] -> 
+  ((I/14)*((-25 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-25 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (8*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 7][5] -> 
+  (I*(\[Lambda] + (-66 + s + 2*s2)*Ainf[0])*Ainf[1] - 10*\[Omega]*Ainf[2])/
+   (14*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 7][6] -> 
+  ((I/14)*(\[Lambda] - 42*Ainf[0]))/\[Omega] - (6*Ainf[1])/(7*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][0] -> 
+  ((I/16)*((-7 + 7*s + 32*s2)*Ainf[3]*Ainf[4] + (-7 + 7*s + 36*s2)*Ainf[2]*
+      Ainf[5] + (-7 + 7*s + 44*s2)*Ainf[1]*Ainf[6] + 
+     (\[Lambda] + 7*(-1 + s + 8*s2)*Ainf[0])*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][1] -> 
+  ((I/16)*((-8 + 3*s + 12*s2)*Ainf[3]^2 + 2*(-8 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(-8 + 3*s + 16*s2)*Ainf[1]*Ainf[5] + 
+     (\[Lambda] - 16*Ainf[0])*Ainf[6] + 6*(s + 7*s2)*Ainf[0]*Ainf[6] + 
+     (2*I)*\[Omega]*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][2] -> 
+  ((I/16)*((-27 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (-27 + 5*s + 22*s2)*Ainf[1]*
+      Ainf[4] + (\[Lambda] + (-27 + 5*s + 30*s2)*Ainf[0])*Ainf[5] + 
+     (4*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][3] -> 
+  ((I/16)*(2*(-10 + s + 3*s2)*Ainf[2]^2 + 2*(-20 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(s + 5*(-2 + s2))*Ainf[0])*Ainf[4] + 
+     (6*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][4] -> 
+  ((I/16)*((-55 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + (-55 + 3*s + 12*s2)*Ainf[0])*Ainf[3] + 
+     (8*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][5] -> 
+  ((I/16)*((-36 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-36 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (10*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 8][6] -> 
+  (I*(\[Lambda] + (-91 + s + 2*s2)*Ainf[0])*Ainf[1] - 12*\[Omega]*Ainf[2])/
+   (16*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 8][7] -> 
+  ((I/16)*(\[Lambda] - 56*Ainf[0]))/\[Omega] - (7*Ainf[1])/(8*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][0] -> 
+  ((I/18)*(4*(-1 + s + 5*s2)*Ainf[4]^2 + 2*(-4 + 4*s + 21*s2)*Ainf[3]*
+      Ainf[5] + 8*(-1 + s + 6*s2)*Ainf[2]*Ainf[6] + 
+     2*(-4 + 4*s + 29*s2)*Ainf[1]*Ainf[7] + 
+     (\[Lambda] + 8*(-1 + s + 9*s2)*Ainf[0])*Ainf[8]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][1] -> 
+  ((I/18)*((-18 + 7*s + 32*s2)*Ainf[3]*Ainf[4] + (-18 + 7*s + 36*s2)*Ainf[2]*
+      Ainf[5] + (-18 + 7*s + 44*s2)*Ainf[1]*Ainf[6] + 
+     (\[Lambda] - 18*Ainf[0])*Ainf[7] + 7*(s + 8*s2)*Ainf[0]*Ainf[7] + 
+     (2*I)*\[Omega]*Ainf[8]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][2] -> 
+  ((I/18)*(3*(-5 + s + 4*s2)*Ainf[3]^2 + 2*(-15 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(-15 + 3*s + 16*s2)*Ainf[1]*Ainf[5] + 
+     (\[Lambda] - 30*Ainf[0])*Ainf[6] + 6*(s + 7*s2)*Ainf[0]*Ainf[6] + 
+     (4*I)*\[Omega]*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][3] -> 
+  ((I/18)*((-44 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (5*s + 22*(-2 + s2))*Ainf[1]*
+      Ainf[4] + (\[Lambda] + (-44 + 5*s + 30*s2)*Ainf[0])*Ainf[5] + 
+     (6*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][4] -> 
+  ((I/18)*(2*(s + 3*(-5 + s2))*Ainf[2]^2 + 2*(-30 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(s + 5*(-3 + s2))*Ainf[0])*Ainf[4] + 
+     (8*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][5] -> 
+  ((I/18)*((-78 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(-26 + s + 4*s2)*Ainf[0])*Ainf[3] + 
+     (10*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][6] -> 
+  ((I/18)*((-49 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-49 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (12*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 9][7] -> 
+  (I*(\[Lambda] + (s + 2*(-60 + s2))*Ainf[0])*Ainf[1] - 14*\[Omega]*Ainf[2])/
+   (18*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 9][8] -> 
+  ((I/18)*(\[Lambda] - 72*Ainf[0]))/\[Omega] - (8*Ainf[1])/(9*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][0] -> 
+  ((I/20)*((-9 + 9*s + 50*s2)*Ainf[4]*Ainf[5] + 9*(-1 + s + 6*s2)*Ainf[3]*
+      Ainf[6] - 9*Ainf[2]*Ainf[7] + 9*s*Ainf[2]*Ainf[7] + 
+     62*s2*Ainf[2]*Ainf[7] - 9*Ainf[1]*Ainf[8] + 9*s*Ainf[1]*Ainf[8] + 
+     74*s2*Ainf[1]*Ainf[8] + (\[Lambda] + 9*(-1 + s + 10*s2)*Ainf[0])*
+      Ainf[9]))/(\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 10][1] -> 
+  ((I/20)*(2*(-5 + 2*s + 10*s2)*Ainf[4]^2 + 2*(-10 + 4*s + 21*s2)*Ainf[3]*
+      Ainf[5] - 20*Ainf[2]*Ainf[6] + 8*s*Ainf[2]*Ainf[6] + 
+     48*s2*Ainf[2]*Ainf[6] - 20*Ainf[1]*Ainf[7] + 8*s*Ainf[1]*Ainf[7] + 
+     58*s2*Ainf[1]*Ainf[7] + (\[Lambda] - 20*Ainf[0])*Ainf[8] + 
+     8*(s + 9*s2)*Ainf[0]*Ainf[8] + (2*I)*\[Omega]*Ainf[9]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 10][2] -> 
+  ((I/20)*((-33 + 7*s + 32*s2)*Ainf[3]*Ainf[4] + (-33 + 7*s + 36*s2)*Ainf[2]*
+      Ainf[5] + (-33 + 7*s + 44*s2)*Ainf[1]*Ainf[6] + 
+     (\[Lambda] - 33*Ainf[0])*Ainf[7] + 7*(s + 8*s2)*Ainf[0]*Ainf[7] + 
+     (4*I)*\[Omega]*Ainf[8]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][3] -> 
+  ((I/20)*(3*(-8 + s + 4*s2)*Ainf[3]^2 + 2*(-24 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(-24 + 3*s + 16*s2)*Ainf[1]*Ainf[5] + 
+     (\[Lambda] - 48*Ainf[0])*Ainf[6] + 6*(s + 7*s2)*Ainf[0]*Ainf[6] + 
+     (6*I)*\[Omega]*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][4] -> 
+  ((I/20)*((-65 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (-65 + 5*s + 22*s2)*Ainf[1]*
+      Ainf[4] + (\[Lambda] + 5*(-13 + s + 6*s2)*Ainf[0])*Ainf[5] + 
+     (8*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][5] -> 
+  ((I/20)*(2*(s + 3*(-7 + s2))*Ainf[2]^2 + 2*(2*s + 7*(-6 + s2))*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(-21 + s + 5*s2)*Ainf[0])*Ainf[4] + 
+     (10*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][6] -> 
+  ((I/20)*((-105 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(-35 + s + 4*s2)*Ainf[0])*Ainf[3] + 
+     (12*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][7] -> 
+  ((I/20)*((-64 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-64 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (14*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 10][8] -> 
+  (I*(\[Lambda] + (-153 + s + 2*s2)*Ainf[0])*Ainf[1] - 16*\[Omega]*Ainf[2])/
+   (20*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 10][9] -> 
+  ((I/20)*(\[Lambda] - 90*Ainf[0]))/\[Omega] - (9*Ainf[1])/(10*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][0] -> 
+  ((I/22)*(5*(-1 + s + 6*s2)*Ainf[5]^2 + 
+     2*((-5 + 5*s + 31*s2)*Ainf[4]*Ainf[6] + (-5 + 5*s + 34*s2)*Ainf[3]*
+        Ainf[7] + (-5 + 5*s + 39*s2)*Ainf[2]*Ainf[8] + 
+       (-5 + 5*s + 46*s2)*Ainf[1]*Ainf[9]) + 
+     (\[Lambda] + 10*(-1 + s + 11*s2)*Ainf[0])*Ainf[10]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][1] -> 
+  ((I/22)*((-22 + 9*s + 50*s2)*Ainf[4]*Ainf[5] + (-22 + 9*s + 54*s2)*Ainf[3]*
+      Ainf[6] - 22*Ainf[2]*Ainf[7] + 9*s*Ainf[2]*Ainf[7] + 
+     62*s2*Ainf[2]*Ainf[7] - 22*Ainf[1]*Ainf[8] + 9*s*Ainf[1]*Ainf[8] + 
+     74*s2*Ainf[1]*Ainf[8] + (\[Lambda] - 22*Ainf[0])*Ainf[9] + 
+     9*(s + 10*s2)*Ainf[0]*Ainf[9] + (2*I)*\[Omega]*Ainf[10]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 11][2] -> 
+  ((I/22)*(2*(-9 + 2*s + 10*s2)*Ainf[4]^2 + 2*(-18 + 4*s + 21*s2)*Ainf[3]*
+      Ainf[5] - 36*Ainf[2]*Ainf[6] + 8*s*Ainf[2]*Ainf[6] + 
+     48*s2*Ainf[2]*Ainf[6] - 36*Ainf[1]*Ainf[7] + 8*s*Ainf[1]*Ainf[7] + 
+     58*s2*Ainf[1]*Ainf[7] + (\[Lambda] - 36*Ainf[0])*Ainf[8] + 
+     8*(s + 9*s2)*Ainf[0]*Ainf[8] + (4*I)*\[Omega]*Ainf[9]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 11][3] -> 
+  ((I/22)*((-52 + 7*s + 32*s2)*Ainf[3]*Ainf[4] + (-52 + 7*s + 36*s2)*Ainf[2]*
+      Ainf[5] + (-52 + 7*s + 44*s2)*Ainf[1]*Ainf[6] + 
+     (\[Lambda] - 52*Ainf[0])*Ainf[7] + 7*(s + 8*s2)*Ainf[0]*Ainf[7] + 
+     (6*I)*\[Omega]*Ainf[8]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][4] -> 
+  ((I/22)*((-35 + 3*s + 12*s2)*Ainf[3]^2 + 2*(-35 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(-35 + 3*s + 16*s2)*Ainf[1]*Ainf[5] + 
+     (\[Lambda] - 70*Ainf[0])*Ainf[6] + 6*(s + 7*s2)*Ainf[0]*Ainf[6] + 
+     (8*I)*\[Omega]*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][5] -> 
+  ((I/22)*((5*s + 18*(-5 + s2))*Ainf[2]*Ainf[3] + (-90 + 5*s + 22*s2)*Ainf[1]*
+      Ainf[4] + (\[Lambda] + 5*(s + 6*(-3 + s2))*Ainf[0])*Ainf[5] + 
+     (10*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][6] -> 
+  ((I/22)*(2*(-28 + s + 3*s2)*Ainf[2]^2 + 2*(2*s + 7*(-8 + s2))*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(-28 + s + 5*s2)*Ainf[0])*Ainf[4] + 
+     (12*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][7] -> 
+  ((I/22)*((3*s + 8*(-17 + s2))*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + (-136 + 3*s + 12*s2)*Ainf[0])*Ainf[3] + 
+     (14*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][8] -> 
+  ((I/22)*((-81 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-81 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (16*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 11][9] -> 
+  (I*(\[Lambda] + (s + 2*(-95 + s2))*Ainf[0])*Ainf[1] - 18*\[Omega]*Ainf[2])/
+   (22*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 11][10] -> 
+  ((I*(\[Lambda] - 110*Ainf[0]))/\[Omega] - (20*Ainf[1])/Ainf[0])/22, 
+ Subscript[\[CapitalBeta], 12][0] -> 
+  ((I/24)*((-11 + 11*s + 72*s2)*Ainf[5]*Ainf[6] - 
+     11*(Ainf[4]*Ainf[7] + Ainf[3]*Ainf[8] + Ainf[2]*Ainf[9] + 
+       Ainf[1]*Ainf[10]) + (\[Lambda] - 11*Ainf[0])*Ainf[11] + 
+     11*s*(Ainf[4]*Ainf[7] + Ainf[3]*Ainf[8] + Ainf[2]*Ainf[9] + 
+       Ainf[1]*Ainf[10] + Ainf[0]*Ainf[11]) + 
+     4*s2*(19*Ainf[4]*Ainf[7] + 21*Ainf[3]*Ainf[8] + 24*Ainf[2]*Ainf[9] + 
+       28*Ainf[1]*Ainf[10] + 33*Ainf[0]*Ainf[11])))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][1] -> 
+  ((I/24)*((-12 + 5*s + 30*s2)*Ainf[5]^2 + 2*(-12 + 5*s + 31*s2)*Ainf[4]*
+      Ainf[6] - 24*Ainf[2]*Ainf[8] - 24*Ainf[1]*Ainf[9] + 
+     (\[Lambda] - 24*Ainf[0])*Ainf[10] + 
+     2*((-12 + 5*s + 34*s2)*Ainf[3]*Ainf[7] + 5*s*Ainf[2]*Ainf[8] + 
+       39*s2*Ainf[2]*Ainf[8] + 5*s*Ainf[1]*Ainf[9] + 46*s2*Ainf[1]*Ainf[9] + 
+       5*(s + 11*s2)*Ainf[0]*Ainf[10]) + (2*I)*\[Omega]*Ainf[11]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 12][2] -> 
+  ((I/24)*((-39 + 9*s + 50*s2)*Ainf[4]*Ainf[5] + 3*(-13 + 3*s + 18*s2)*
+      Ainf[3]*Ainf[6] - 39*Ainf[2]*Ainf[7] + 9*s*Ainf[2]*Ainf[7] + 
+     62*s2*Ainf[2]*Ainf[7] - 39*Ainf[1]*Ainf[8] + 9*s*Ainf[1]*Ainf[8] + 
+     74*s2*Ainf[1]*Ainf[8] + (\[Lambda] - 39*Ainf[0])*Ainf[9] + 
+     9*(s + 10*s2)*Ainf[0]*Ainf[9] + (4*I)*\[Omega]*Ainf[10]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 12][3] -> 
+  ((I/24)*(4*(-7 + s + 5*s2)*Ainf[4]^2 + 2*(-28 + 4*s + 21*s2)*Ainf[3]*
+      Ainf[5] - 56*Ainf[2]*Ainf[6] + 8*s*Ainf[2]*Ainf[6] + 
+     48*s2*Ainf[2]*Ainf[6] - 56*Ainf[1]*Ainf[7] + 8*s*Ainf[1]*Ainf[7] + 
+     58*s2*Ainf[1]*Ainf[7] + (\[Lambda] - 56*Ainf[0])*Ainf[8] + 
+     8*(s + 9*s2)*Ainf[0]*Ainf[8] + (6*I)*\[Omega]*Ainf[9]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 12][4] -> 
+  ((I/24)*((-75 + 7*s + 32*s2)*Ainf[3]*Ainf[4] + (-75 + 7*s + 36*s2)*Ainf[2]*
+      Ainf[5] + (-75 + 7*s + 44*s2)*Ainf[1]*Ainf[6] + 
+     (\[Lambda] - 75*Ainf[0])*Ainf[7] + 7*(s + 8*s2)*Ainf[0]*Ainf[7] + 
+     (8*I)*\[Omega]*Ainf[8]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][5] -> 
+  ((I/24)*(3*(s + 4*(-4 + s2))*Ainf[3]^2 + 2*(-48 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(3*s + 16*(-3 + s2))*Ainf[1]*Ainf[5] + 
+     (\[Lambda] - 96*Ainf[0])*Ainf[6] + 6*(s + 7*s2)*Ainf[0]*Ainf[6] + 
+     (10*I)*\[Omega]*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][6] -> 
+  ((I/24)*((-119 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (-119 + 5*s + 22*s2)*
+      Ainf[1]*Ainf[4] + (\[Lambda] + (-119 + 5*s + 30*s2)*Ainf[0])*Ainf[5] + 
+     (12*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][7] -> 
+  ((I/24)*(2*(-36 + s + 3*s2)*Ainf[2]^2 + 2*(-72 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(-36 + s + 5*s2)*Ainf[0])*Ainf[4] + 
+     (14*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][8] -> 
+  ((I/24)*((-171 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(-57 + s + 4*s2)*Ainf[0])*Ainf[3] + 
+     (16*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][9] -> 
+  ((I/24)*((s + 2*(-50 + s2))*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-100 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (18*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 12][10] -> 
+  (I*(\[Lambda] + (-231 + s + 2*s2)*Ainf[0])*Ainf[1] - 20*\[Omega]*Ainf[2])/
+   (24*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 12][11] -> 
+  ((I*(\[Lambda] - 132*Ainf[0]))/\[Omega] - (22*Ainf[1])/Ainf[0])/24, 
+ Subscript[\[CapitalBeta], 13][0] -> 
+  ((I/26)*(6*(-1 + s + 7*s2)*Ainf[6]^2 + 
+     2*((-6 + 6*s + 43*s2)*Ainf[5]*Ainf[7] + 2*(-3 + 3*s + 23*s2)*Ainf[4]*
+        Ainf[8] - 6*Ainf[3]*Ainf[9] + 6*s*Ainf[3]*Ainf[9] + 
+       51*s2*Ainf[3]*Ainf[9] - 6*Ainf[2]*Ainf[10] + 6*s*Ainf[2]*Ainf[10] + 
+       58*s2*Ainf[2]*Ainf[10] + (-6 + 6*s + 67*s2)*Ainf[1]*Ainf[11]) + 
+     (\[Lambda] + 12*(-1 + s + 13*s2)*Ainf[0])*Ainf[12]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][1] -> 
+  ((I/26)*((-26 + 11*s + 72*s2)*Ainf[5]*Ainf[6] - 26*Ainf[4]*Ainf[7] - 
+     26*Ainf[3]*Ainf[8] - 26*Ainf[2]*Ainf[9] - 26*Ainf[1]*Ainf[10] + 
+     (\[Lambda] - 26*Ainf[0])*Ainf[11] + 
+     11*s*(Ainf[4]*Ainf[7] + Ainf[3]*Ainf[8] + Ainf[2]*Ainf[9] + 
+       Ainf[1]*Ainf[10] + Ainf[0]*Ainf[11]) + 
+     4*s2*(19*Ainf[4]*Ainf[7] + 21*Ainf[3]*Ainf[8] + 24*Ainf[2]*Ainf[9] + 
+       28*Ainf[1]*Ainf[10] + 33*Ainf[0]*Ainf[11]) + (2*I)*\[Omega]*Ainf[12]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 13][2] -> 
+  ((I/26)*((-21 + 5*s + 30*s2)*Ainf[5]^2 + 2*(-21 + 5*s + 31*s2)*Ainf[4]*
+      Ainf[6] - 42*Ainf[2]*Ainf[8] - 42*Ainf[1]*Ainf[9] + 
+     (\[Lambda] - 42*Ainf[0])*Ainf[10] + 
+     2*((-21 + 5*s + 34*s2)*Ainf[3]*Ainf[7] + 5*s*Ainf[2]*Ainf[8] + 
+       39*s2*Ainf[2]*Ainf[8] + 5*s*Ainf[1]*Ainf[9] + 46*s2*Ainf[1]*Ainf[9] + 
+       5*(s + 11*s2)*Ainf[0]*Ainf[10]) + (4*I)*\[Omega]*Ainf[11]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 13][3] -> 
+  ((I/26)*((-60 + 9*s + 50*s2)*Ainf[4]*Ainf[5] + 3*(-20 + 3*s + 18*s2)*
+      Ainf[3]*Ainf[6] - 60*Ainf[2]*Ainf[7] + 9*s*Ainf[2]*Ainf[7] + 
+     62*s2*Ainf[2]*Ainf[7] - 60*Ainf[1]*Ainf[8] + 9*s*Ainf[1]*Ainf[8] + 
+     74*s2*Ainf[1]*Ainf[8] + (\[Lambda] - 60*Ainf[0])*Ainf[9] + 
+     9*(s + 10*s2)*Ainf[0]*Ainf[9] + (6*I)*\[Omega]*Ainf[10]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 13][4] -> 
+  ((I/26)*(4*(s + 5*(-2 + s2))*Ainf[4]^2 + 2*(-40 + 4*s + 21*s2)*Ainf[3]*
+      Ainf[5] - 80*Ainf[2]*Ainf[6] + 8*s*Ainf[2]*Ainf[6] + 
+     48*s2*Ainf[2]*Ainf[6] - 80*Ainf[1]*Ainf[7] + 8*s*Ainf[1]*Ainf[7] + 
+     58*s2*Ainf[1]*Ainf[7] + (\[Lambda] - 80*Ainf[0])*Ainf[8] + 
+     8*(s + 9*s2)*Ainf[0]*Ainf[8] + (8*I)*\[Omega]*Ainf[9]))/
+   (\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 13][5] -> 
+  ((I/26)*((-102 + 7*s + 32*s2)*Ainf[3]*Ainf[4] + (-102 + 7*s + 36*s2)*
+      Ainf[2]*Ainf[5] + (-102 + 7*s + 44*s2)*Ainf[1]*Ainf[6] + 
+     (\[Lambda] - 102*Ainf[0])*Ainf[7] + 7*(s + 8*s2)*Ainf[0]*Ainf[7] + 
+     (10*I)*\[Omega]*Ainf[8]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][6] -> 
+  ((I/26)*(3*(-21 + s + 4*s2)*Ainf[3]^2 + 2*(-63 + 3*s + 13*s2)*Ainf[2]*
+      Ainf[4] + 2*(-63 + 3*s + 16*s2)*Ainf[1]*Ainf[5] + 
+     (\[Lambda] - 126*Ainf[0])*Ainf[6] + 6*(s + 7*s2)*Ainf[0]*Ainf[6] + 
+     (12*I)*\[Omega]*Ainf[7]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][7] -> 
+  ((I/26)*((-152 + 5*s + 18*s2)*Ainf[2]*Ainf[3] + (-152 + 5*s + 22*s2)*
+      Ainf[1]*Ainf[4] + (\[Lambda] + (-152 + 5*s + 30*s2)*Ainf[0])*Ainf[5] + 
+     (14*I)*\[Omega]*Ainf[6]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][8] -> 
+  ((I/26)*(2*(-45 + s + 3*s2)*Ainf[2]^2 + 2*(-90 + 2*s + 7*s2)*Ainf[1]*
+      Ainf[3] + (\[Lambda] + 4*(s + 5*(-9 + s2))*Ainf[0])*Ainf[4] + 
+     (16*I)*\[Omega]*Ainf[5]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][9] -> 
+  ((I/26)*((-210 + 3*s + 8*s2)*Ainf[1]*Ainf[2] + 
+     (\[Lambda] + 3*(-70 + s + 4*s2)*Ainf[0])*Ainf[3] + 
+     (18*I)*\[Omega]*Ainf[4]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][10] -> 
+  ((I/26)*((-121 + s + 2*s2)*Ainf[1]^2 + 
+     (\[Lambda] + 2*(-121 + s + 3*s2)*Ainf[0])*Ainf[2] + 
+     (20*I)*\[Omega]*Ainf[3]))/(\[Omega]*Ainf[0]), 
+ Subscript[\[CapitalBeta], 13][11] -> 
+  (I*(\[Lambda] + (-276 + s + 2*s2)*Ainf[0])*Ainf[1] - 22*\[Omega]*Ainf[2])/
+   (26*\[Omega]*Ainf[0]), Subscript[\[CapitalBeta], 13][12] -> 
+  ((I*(\[Lambda] - 156*Ainf[0]))/\[Omega] - (24*Ainf[1])/Ainf[0])/26}
