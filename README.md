@@ -34,7 +34,7 @@ Reproducibility: Running this notebook reproduces the QNM data presented in Tabl
 ## 2. Time-Domain Evolution & Matrix Pencil Method
 Located in `Timedomain & Matrix pencil/`.
 
-Prerequisites: Julia (v1.10 recommended).
+Prerequisites: Julia (v1.10 recommended), VScode.
 
 Workflow:
 
