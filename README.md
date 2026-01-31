@@ -1,8 +1,8 @@
-# Supplemental Material for arXiv:2510.02033
+# Example code for arXiv:2510.02033
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.02033-b31b1b.svg)](https://arxiv.org/abs/2510.02033)
 
-This repository contains the source code, data, and supplementary materials for the paper:
+This repository contains the source code and data for the paper:
 
 **"QNM families: classification and competition"** *Zhen-Hao Yang, Liang-Bi Wu, Xiao-Mei Kuang, and Wei-Liang Qian*
 
